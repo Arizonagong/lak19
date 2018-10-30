@@ -9,7 +9,7 @@
 ## Instructors: Alfred Essa, Ani Aghababyan, Lalitha Agnihotri, Shirin Mojarad, Neil Zimmerman
 
 
-Note: Course Materials, including detailed syllabus and Jupyter Notebooks will be available at the <a href = "https://github.com/alfredessa/lak19/wiki">Course Wiki.</a>
+### Note: Course Materials, including detailed syllabus and Jupyter Notebooks will be available at the <a href = "https://github.com/alfredessa/lak19/wiki">Course Wiki.</a>
 
 <b>Summary</b>: The hands-on tutorial will provide a rigorous introduction to python for learning analytics practitioners. The intensive tutorial consists of five parts: a) basic and intermediate python; b) statistics and visualization; c) machine learning d) causal inferencing and d) deep learning. The tutorial will be motivated throughout by educational datasets and examples. The aim of the tutorial is to provide a thorough introduction to computation and statistical methodologies in modern learning analytics.
 
