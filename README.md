@@ -6,7 +6,8 @@
 
 # Python Bootcamp for Learning Analytics Practioners
 
-## Instructors: Alfred Essa, Ani Aghababyan, Lalitha Agnihotri, Shirin Mojarad, Neil Zimmerman
+## Instructors: Alfred Essa, Lalitha Agnihotri, Neil Zimmerman, Ani Aghabagyan
+### Assistants: Kim Pham, Eddie Lin
 
 
 ### Note: Course Materials, including detailed syllabus and Jupyter Notebooks will be available at the <a href = "https://github.com/alfredessa/lak19/wiki">Course Wiki.</a>
